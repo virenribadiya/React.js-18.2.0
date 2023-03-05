@@ -1,0 +1,11 @@
+{
+  "name": "008.map-filter-reduce-find-findindex",
+  "version": "1.0.0",
+  "description": "map filter reduce find findIndex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viren Ribadiya",
+  "license": "ISC"
+}
